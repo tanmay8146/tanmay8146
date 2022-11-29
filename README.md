@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanmay8146 a.k.a TanmayXD
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning to manipulate the simulation called Life
-- 💞️ I’m looking to collaborate on developing a function called myself()
+- 💞️ I’m looking to collaborate on writing a function called myself()
 - 📫 How to reach me 
 -                   rv3nom@outlook.com
 
